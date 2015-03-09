@@ -6,8 +6,8 @@ Collection of useful things for interviews.
 
 Technical
 =========
-  - What kind of work will I be working on?
-  - Are there situations where I will have to be on-call? If so, is there a rotation?
+ - What kind of work will I be working on?
+ - Are there situations where I will have to be on-call? If so, is there a rotation?
  - Stack technologies? source-control? 
  - Are there any areas where you think you have accumulated techinical debt?
  - Is there a code review process? If so, what tools do you use and/or process do you follow?
